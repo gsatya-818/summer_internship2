@@ -45,4 +45,4 @@ scanf("%d %d",&a,&b);
 [Internship_pdf](internship.pdf)
 
 ### Insert Image
-[My image](https://images.pexels.com/photos/381739/pexels-photo-381739.jpeg)
+![My image](https://images.pexels.com/photos/381739/pexels-photo-381739.jpeg)
