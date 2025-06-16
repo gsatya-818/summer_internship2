@@ -8,7 +8,7 @@
 
 ***BoldItalic***
 
-~~~ Strike Through ~~~
+~~~Strike Through~~~
 
 ### Odered List
 1. First line
