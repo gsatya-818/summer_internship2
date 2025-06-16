@@ -44,7 +44,7 @@ scanf("%d %d",&a,&b);
 
 [Internship_pdf](internship.pdf)
 
-[^2]:Sagar
+[^2]:Satya Durga Pavani
 
 ### Insert Image
 ![My image](https://images.pexels.com/photos/381739/pexels-photo-381739.jpeg)
