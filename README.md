@@ -8,6 +8,8 @@
 
 ***BoldItalic***
 
+~~~ Strike Through ~~~
+
 ### Odered List
 1. First line
 2. Second line
@@ -48,7 +50,10 @@ scanf("%d %d",&a,&b);
 ![My image](https://images.pexels.com/photos/381739/pexels-photo-381739.jpeg)
 
 ### To use checklist
-- [ ] AWS
-- [ ] Linux
-- [ ] Git
+- [X] AWS
+- [X] Linux
+- [X] Git
 - [ ] DevOps
+
+### Footnote.[^1]
+[^1]: Meaning
