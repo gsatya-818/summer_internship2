@@ -44,6 +44,8 @@ scanf("%d %d",&a,&b);
 
 [Internship_pdf](internship.pdf)
 
+[^2]:Sagar
+
 ### Insert Image
 ![My image](https://images.pexels.com/photos/381739/pexels-photo-381739.jpeg)
 
@@ -55,3 +57,4 @@ scanf("%d %d",&a,&b);
 
 ### Footnote.[^1]
 [^1]: Meaning
+### Satya.[^2]
