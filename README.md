@@ -58,3 +58,11 @@ scanf("%d %d",&a,&b);
 ### Footnote.[^1]
 [^1]: Meaning
 ### Satya.[^2]
+
+
+
+### To insert the table
+
+|Name|College|District|
+|----|----------|-----|
+|Satya|RGUKT|WG|
