@@ -9,12 +9,12 @@
 ***BoldItalic***
 
 ### Odered List
-1.First line
-2.Second line
-3.Third line
+1. First line
+2. Second line
+3. Third line
 
 ### Unordered list
--First Line
-+Second line
-+Third line
+- First Line
++ Second line
++ Third line
 
