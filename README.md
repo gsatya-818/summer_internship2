@@ -8,8 +8,6 @@
 
 ***BoldItalic***
 
-~~~StrikeThrough~~~
-
 ### Odered List
 1. First line
 2. Second line
