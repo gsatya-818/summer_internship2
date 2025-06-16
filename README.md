@@ -67,3 +67,4 @@ scanf("%d %d",&a,&b);
 |----|----------|-----|
 |Satya|Sagar|WG|
 |Sagar|Vennela|Nellore
+|Vennela|Sagar|Nellore
