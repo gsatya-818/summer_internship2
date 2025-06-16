@@ -25,4 +25,4 @@ int main(){
 int a,b;
 print("Enter value:");
 scanf("%d %d",&a,&b);
-}
+}`
