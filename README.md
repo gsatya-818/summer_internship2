@@ -66,3 +66,4 @@ scanf("%d %d",&a,&b);
 |Name|College|District|
 |----|----------|-----|
 |Satya|RGUKT|WG|
+|Sagar|RGUKT|Nellore
