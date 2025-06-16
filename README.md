@@ -63,7 +63,7 @@ scanf("%d %d",&a,&b);
 
 ### To insert the table
 
-|Name|College|District|
+|Name|Friend|District|
 |----|----------|-----|
-|Satya|RGUKT|WG|
-|Sagar|RGUKT|Nellore
+|Satya|Sagar|WG|
+|Sagar|Satya|Nellore
