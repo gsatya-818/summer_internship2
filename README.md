@@ -27,12 +27,14 @@ print("Enter value:");
 scanf("%d %d",&a,&b);
 }`
 
-```#include <stdio.h>
+```
+#include <stdio.h>
 int main(){
 int a,b;
 print("Enter value:");
 scanf("%d %d",&a,&b);
-}```
+}
+```
 
 ##### Horizontal Line
 -------------------
