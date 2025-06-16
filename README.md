@@ -66,4 +66,4 @@ scanf("%d %d",&a,&b);
 |Name|Friend|District|
 |----|----------|-----|
 |Satya|Sagar|WG|
-|Sagar|Satya|Nellore
+|Sagar|Vennela|Nellore
