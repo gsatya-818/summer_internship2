@@ -40,4 +40,4 @@ scanf("%d %d",&a,&b);
 -------------------
 
 ##### Insert URL 
-[Google](www.google.com)
+[Google](https://www.google.com/)
