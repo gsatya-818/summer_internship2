@@ -1,1 +1,3 @@
-# summer_internship2
+# summer_internship 
+## Git and GitHub is part of syllabus in Summer Intership
+### This is readme file
